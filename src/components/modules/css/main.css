@@ -1,0 +1,43 @@
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #232323;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 750px;
+}
+
+.form{
+    background: #fefefe;
+    padding: 50px 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.object{
+    background: #fefefe;
+    padding: 50px 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.array{
+    background: #fefefe;
+    padding: 50px 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.another{
+    background: #fefefe;
+    padding: 50px 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
